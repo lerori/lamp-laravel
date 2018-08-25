@@ -1,0 +1,5 @@
+/docker/runtime/mysql
+/.idea
+docker-compose.yml.bak
+crontask.txt
+*.md
